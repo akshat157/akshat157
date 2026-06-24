@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am a Software Engineer with 5+ years of experience building across the frontend and backend.
+
+I enjoy crafting polished interfaces and the systems that power them!
+
+My daily driver is a _work-in-progress_ Arch Linux machine where I experiment with self-hosting, Neovim, programming languages, and local LLMs.
+
+Learn more about me at [akshatmalviya.com](https://www.akshatmalviya.com/)
+
 <!--
 **akshat157/akshat157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
